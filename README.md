@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🌱 I’m currently learning Ruby and Ruby on Rails to become a Full Stack Web Developer. With over 9 years of experience in software testing, I bring a deep understanding of software quality assurance, system functionality, and collaboration with development teams. My goal is to combine this expertise with my new development skills to build robust, user-friendly, and scalable web applications
 <!--
 **edward-mwinas-alexander/edward-mwinas-alexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
